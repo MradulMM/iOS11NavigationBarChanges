@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Burger</string>
+	</dict>
+    <dict>
+        <key>title</key>
+        <string>Panner Tikka</string>
+    </dict>
+    <dict>
+        <key>title</key>
+        <string>Tall Dark Handsome Shake</string>
+    </dict>
+    <dict>
+        <key>title</key>
+        <string>Fried-Rice</string>
+    </dict>
+    <dict>
+        <key>title</key>
+        <string>Pastry</string>
+    </dict>
+    <dict>
+        <key>title</key>
+        <string>Hara Bhara Kabaab</string>
+    </dict>
+    <dict>
+        <key>title</key>
+        <string>Baby Corn</string>
+    </dict>
+    <dict>
+        <key>title</key>
+        <string>Kitkat Shake</string>
+    </dict>
+    <dict>
+        <key>title</key>
+        <string>Sizzler</string>
+    </dict>
+    <dict>
+        <key>title</key>
+        <string>Mojito</string>
+    </dict>
+    <dict>
+        <key>title</key>
+        <string>Nachos</string>
+    </dict>
+    <dict>
+        <key>title</key>
+        <string>Veg-Sandwich</string>
+    </dict>
+    <dict>
+        <key>title</key>
+        <string>Maggi</string>
+    </dict>
+    <dict>
+        <key>title</key>
+        <string>Momos</string>
+    </dict>
+    <dict>
+        <key>title</key>
+        <string>Cheese Pizza</string>
+    </dict>
+</array>
+</plist>
